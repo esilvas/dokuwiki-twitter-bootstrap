@@ -1,0 +1,7 @@
+base     starter
+author   Emilio Silvas
+email    anika@selfthinker.org
+date     2012-08-08
+name     Twitter Bootstrap Template
+desc     DokuWiki on Twitter Boogstrap
+url      http://www.dokuwiki.org/template:starter

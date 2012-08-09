@@ -1,0 +1,17 @@
+.main {
+	position:relative;
+	margin:70px 0 20px 0;
+	min-height:400px;
+}
+.margin_top_20 {
+	margin-top:20px;
+}
+.margin_bottom_20 {
+	margin-bottom:20px;
+}
+.margin_right_5 {
+	margin-top:5px;
+}
+.margin_left_5 {
+	margin-left:5px;
+}
